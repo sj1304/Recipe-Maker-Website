@@ -10,6 +10,7 @@
     width:100px;
 }
 
+    
 #cards{
     padding:50px;
     background-color: rgba(232, 233, 185, 0.86);
